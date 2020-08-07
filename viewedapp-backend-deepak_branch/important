@@ -1,0 +1,38 @@
+viewedApp_development 
+13.58.189.67 
+user = app 
+pass= Flup3r_App103
+
+twilio:-
+id:-jaffmukendi@gmail.com
+pass:-Viewed_1239876
+
+sudo systemctl daemon-reload
+sudo systemctl restart gunicorn
+sudo nginx -t && sudo systemctl restart nginx
+
+product.id
+product image
+product detail
+
+order color
+size
+qty
+status
+price
+{{full_order_detail?.order_status}}
+
+manish 
+enmfJHaQICM:APA91bGxVVLtaAf2AnSdM16jWA4iRIA0pnvpTBU8qHo12LYGGH2iI4i2ujr5tsM0YN5SR9yHClZeuM1wbRkzHcMW0ZjoJParw9grq8vMS6hq5Lb4h9IUu06hkCZ1Z8SzawHwmitlSstt
+JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDc5NTQ4ODgsInVzZXJfaWQiOjIxOSwiZW1haWwiOiJtYW5pc2gub21hcjc3QGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiTWFuaXNoLU9tYXItMTk4MTgwNSJ9.W-wqMLrRlJMtzNDyzPFkci-gs4TcYUGrHiuqO2U_8Lc
+
+ss
+d7hnBofg98o:APA91bFAXi85MYQXGMLVozcOVD8OG7-bW5iTKzLdqtFRU5wKy_N9AFxElRWILVe5I2mYWHbyr6MW9330126YaLX8lUvU8UY42qUBiXsOJ9bn-rIdMjGv1SL79cS8M4wAaX_JEiDffjTx
+JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MDc5NTQ5NDUsInVzZXJfaWQiOjIzNywiZW1haWwiOiJzdWthbWFsLnNpbmhhQGdtYWlsLmNvbSIsInVzZXJuYW1lIjoiU3MtU3MtNjI5MTI2NCJ9.VlzPgRweAFi98WV1GAINW4JfSomZYhJjfKU504Ok7oo
+
+post id 465
+comment id 97,98(own)
+
+
+
+
